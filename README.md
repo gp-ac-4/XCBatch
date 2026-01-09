@@ -1,4 +1,6 @@
 # Batch 90
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-ac-4%2FXCBatch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-ac-4%2FXCBatch?ref=badge_shield)
+
 
 ## The universal batch/queue interface layer with an in-process implementation
 
@@ -209,3 +211,7 @@ It is sometimes useful to break a process into stages and hand each stage off to
 Why not use `IProducerConsumerCollection<T>`?
 
 To keep things a bit simpler. Implementing abstract Enqueue and Dequeue is more flexible and straight forward.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-ac-4%2FXCBatch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-ac-4%2FXCBatch?ref=badge_large)
